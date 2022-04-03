@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-giphy-app/static/css/main.12df10ff.css",
+    "main.js": "/react-giphy-app/static/js/main.04d72932.js",
+    "index.html": "/react-giphy-app/index.html",
+    "main.12df10ff.css.map": "/react-giphy-app/static/css/main.12df10ff.css.map",
+    "main.04d72932.js.map": "/react-giphy-app/static/js/main.04d72932.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12df10ff.css",
+    "static/js/main.04d72932.js"
+  ]
+}
